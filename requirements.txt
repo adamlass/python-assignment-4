@@ -1,6 +1,5 @@
 pandas
 requests
-os
 zipfile
 numpy
 math
